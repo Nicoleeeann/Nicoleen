@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nicoleen/static/css/main.9cc570cd.css",
+    "main.js": "/Nicoleen/static/js/main.6be64746.js",
+    "static/js/787.20fb5c1d.chunk.js": "/Nicoleen/static/js/787.20fb5c1d.chunk.js",
+    "static/media/V1Zc.gif": "/Nicoleen/static/media/V1Zc.1b6ab6c887443cc80569.gif",
+    "index.html": "/Nicoleen/index.html",
+    "main.9cc570cd.css.map": "/Nicoleen/static/css/main.9cc570cd.css.map",
+    "main.6be64746.js.map": "/Nicoleen/static/js/main.6be64746.js.map",
+    "787.20fb5c1d.chunk.js.map": "/Nicoleen/static/js/787.20fb5c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cc570cd.css",
+    "static/js/main.6be64746.js"
+  ]
+}
